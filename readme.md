@@ -14,6 +14,11 @@
     go run main.go
     访问localhost:8080/index.html
     点击run，查看控制台打印
-
-
+# nodejs运行
+    time node public/wasm_exec.js public/test.wasm
+    exec success
+    
+    real	0m1.158s
+    user	0m3.031s
+    sys	0m0.124s
 
